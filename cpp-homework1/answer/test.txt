@@ -1,0 +1,14 @@
+void gettest() {
+	string input;
+	ofstream mycout("C:\\Users\\swi\\Documents\\cpp-homework1\\answer\\q27.txt", ios::app);
+	while (getline(cin, input)) {
+		mycout << input << endl;
+
+	}
+	cin >> input;
+	mycout << "done" << endl;
+	mycout.close();
+}
+
+	gettest();
+	return 0;

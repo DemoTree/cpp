@@ -1,0 +1,12 @@
+﻿  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27034 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /ZI /JMC /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt "2-4-DangerousStreet.cpp"
+  
+  2-4-DangerousStreet.cpp
+\\mac\home\documents\project\cpp-homework2\q43\q43\2-4-dangerousstreet.cpp(22): warning C4101: “num”: 未引用的局部变量
+  Microsoft (R) Incremental Linker Version 14.16.27034.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:\\Mac\Home\Documents\project\cpp-homework2\Q43\Debug\Q43.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK "/PDB:\\Mac\Home\Documents\project\cpp-homework2\Q43\Debug\Q43.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:\\Mac\Home\Documents\project\cpp-homework2\Q43\Debug\Q43.lib" /MACHINE:X86 "Debug\2-4-DangerousStreet.obj" 
+  Q43.vcxproj -> \\Mac\Home\Documents\project\cpp-homework2\Q43\Debug\Q43.exe

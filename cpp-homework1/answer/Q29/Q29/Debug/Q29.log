@@ -1,0 +1,11 @@
+﻿  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27034 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /ZI /JMC /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt CharacterStatistic.cpp
+  
+  CharacterStatistic.cpp
+\\mac\home\documents\project\cpp\q29\q29\characterstatistic.cpp(21): error C2065: “in”: 未声明的标识符
+\\mac\home\documents\project\cpp\q29\q29\characterstatistic.cpp(21): error C2065: “c”: 未声明的标识符
+\\mac\home\documents\project\cpp\q29\q29\characterstatistic.cpp(22): error C2065: “stringNum”: 未声明的标识符
+\\mac\home\documents\project\cpp\q29\q29\characterstatistic.cpp(22): error C2065: “c”: 未声明的标识符
+\\mac\home\documents\project\cpp\q29\q29\characterstatistic.cpp(24): error C2065: “stringNum”: 未声明的标识符

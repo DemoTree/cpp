@@ -1,0 +1,12 @@
+﻿  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27034 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /ZI /JMC /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt "2-7-InvalidTransaction.cpp"
+  
+  2-7-InvalidTransaction.cpp
+\\mac\home\documents\project\cpp-homework2\q46\q46\2-7-invalidtransaction.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Microsoft (R) Incremental Linker Version 14.16.27034.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:\\Mac\Home\Documents\project\cpp-homework2\Q46\Debug\Q46.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK "/PDB:\\Mac\Home\Documents\project\cpp-homework2\Q46\Debug\Q46.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:\\Mac\Home\Documents\project\cpp-homework2\Q46\Debug\Q46.lib" /MACHINE:X86 "Debug\2-7-InvalidTransaction.obj" 
+  Q46.vcxproj -> \\Mac\Home\Documents\project\cpp-homework2\Q46\Debug\Q46.exe

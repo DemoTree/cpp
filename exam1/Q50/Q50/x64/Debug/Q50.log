@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(50.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27034 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /ZI /JMC /W3 /WX- /diagnostics:classic /sdl /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc141.pdb" /Gd /TP /FC /errorReport:prompt TextLayout.cpp
+  
+  TextLayout.cpp
+c:\users\swi\documents\171250006\第一次机考\q50\q50\textlayout.cpp(96): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  Microsoft (R) Incremental Linker Version 14.16.27034.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:C:\Users\swi\Documents\171250006\第一次机考\Q50\x64\Debug\Q50.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK "/PDB:C:\Users\swi\Documents\171250006\第一次机考\Q50\x64\Debug\Q50.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:C:\Users\swi\Documents\171250006\第一次机考\Q50\x64\Debug\Q50.lib" /MACHINE:X64 x64\Debug\TextLayout.obj 
+  Q50.vcxproj -> C:\Users\swi\Documents\171250006\第一次机考\Q50\x64\Debug\Q50.exe

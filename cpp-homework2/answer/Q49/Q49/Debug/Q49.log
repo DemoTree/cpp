@@ -1,0 +1,13 @@
+﻿  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27034 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /ZI /JMC /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt "2-10-MatrixMultiplication.cpp"
+  
+  2-10-MatrixMultiplication.cpp
+\\mac\home\documents\project\cpp-homework2\q49\q49\2-10-matrixmultiplication.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\mac\home\documents\project\cpp-homework2\q49\q49\2-10-matrixmultiplication.cpp(56): error C2059: 语法错误:“try”
+\\mac\home\documents\project\cpp-homework2\q49\q49\2-10-matrixmultiplication.cpp(56): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+\\mac\home\documents\project\cpp-homework2\q49\q49\2-10-matrixmultiplication.cpp(56): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+\\mac\home\documents\project\cpp-homework2\q49\q49\2-10-matrixmultiplication.cpp(67): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+\\mac\home\documents\project\cpp-homework2\q49\q49\2-10-matrixmultiplication.cpp(69): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+\\mac\home\documents\project\cpp-homework2\q49\q49\2-10-matrixmultiplication.cpp(76): error C2059: 语法错误:“try”

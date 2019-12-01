@@ -1,0 +1,20 @@
+	std::ifstream myfile("C:\\Users\\swi\\Documents\\171250006\\171250006\\q27.txt");
+	string temp;
+	if (!myfile.is_open()) {
+		cout << "failed" << endl;
+	}
+	return 0;
+
+	string input;
+	ofstream mycout("C:\\Users\\apple\\Documents\\q42.txt", ios::app);
+	while (getline(cin, input)) {
+		mycout << input << endl;
+
+	}
+	cin >> input;
+	mycout << "done" << endl;
+	mycout.close();
+
+
+#include<fstream>
+#include<string>

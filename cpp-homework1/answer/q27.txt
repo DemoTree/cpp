@@ -1,0 +1,108 @@
+
+2x^0
+2x^0
+done
+42x^16 + 16x^32 + 9x^39 + 39x^49 + 55x^30 + 52x^53 + 7x^58 + 3x^12 + 42x^55 + 48x^10 + 34x^49 + 42x^0 + 11x^47 + 33x^11 + 10x^16 + 22x^29 + 6x^34 + 6x^42 + 23x^25 + 42x^39 + 36x^40 + 0x^35 + 48x^33 + 17x^46 + 11x^11 + 52x^47 + 22x^20 + 15x^29 + 4x^37 + 28x^51 + 59x^5 + 46x^57 + 30x^2 + 8x^51 + 36x^43 + 30x^19 + 8x^57 + 38x^49 + 15x^52 + 54x^27 + 35x^14 + 40x^2 + 58x^24 + 57x^47 + 24x^27 + 17x^56 + 31x^5 + 34x^40 + 24x^37 + 13x^26
+42x^45 + 26x^8 + 16x^54 + 52x^8 + 56x^24 + 19x^36 + 55x^32 + 4x^8 + 57x^45 + 50x^45 + 18x^25 + 32x^58 + 4x^47 + 26x^25 + 10x^22 + 47x^43 + 15x^21 + 52x^21 + 12x^41 + 48x^43 + 58x^5 + 43x^14 + 44x^11 + 40x^25 + 58x^6 + 2x^12 + 35x^54 + 56x^51 + 45x^53 + 28x^37 + 55x^10 + 45x^12 + 0x^19 + 32x^37 + 23x^58 + 11x^44 + 5x^38 + 59x^47 + 46x^36 + 4x^0 + 30x^39 + 25x^1 + 28x^13 + 16x^51 + 43x^53 + 28x^28 + 56x^32 + 24x^2 + 6x^2 + 23x^56
+done
+5x^0 + 6x^7
+3x^2 + 2x^3
+done
+30x^15 + 30x^8 + 70x^0
+20x^0 + 20x^5 + 20x^0
+done
+8x^20 + 23x^14 + 14x^4 + 29x^7 + 22x^29 + 14x^24 + 24x^5 + 2x^9 + 1x^23 + 22x^21 + 25x^2 + 8x^23 + 1x^19 + 18x^11 + 7x^19
+24x^9 + 6x^2 + 9x^26 + 21x^2 + 27x^18 + 7x^28 + 2x^11 + 29x^13 + 29x^1 + 25x^28 + 17x^3 + 5x^22 + 22x^19 + 26x^29 + 23x^1 + 1x^0
+done
+0x^13 + 16x^5 + 10x^20 + 1x^10 + 18x^16 + 16x^12 + 9x^5 + 14x^25 + 24x^16 + 25x^29 + 20x^0 + 21x^17 + 2x^28 + 14x^18 + 15x^11 + 17x^9 + 17x^6 + 8x^19 + 14x^14 + 23x^25
+23x^2 + 25x^11 + 25x^7 + 26x^11 + 15x^3 + 14x^16 + 29x^2 + 20x^15 + 11x^6 + 25x^22
+done
+11x^8 + 8x^2 + 1x^19 + 5x^25 + 29x^27 + 26x^0 + 28x^0 + 27x^27 + 28x^23 + 20x^15 + 23x^29 + 15x^12 + 5x^4 + 25x^28 + 4x^14 + 27x^13 + 28x^14 + 27x^29 + 27x^12 + 10x^3 + 13x^3 + 28x^13 + 23x^13 + 29x^3 + 29x^16 + 22x^16 + 1x^11 + 11x^7 + 10x^17 + 24x^5 + 12x^0 + 12x^23 + 7x^2 + 27x^8 + 11x^7 + 15x^16 + 2x^17 + 25x^19 + 3x^9 + 0x^28
+15x^7 + 16x^5 + 5x^14 + 15x^7 + 0x^12 + 9x^8 + 18x^15 + 0x^6 + 6x^4 + 10x^1 + 18x^1 + 3x^14 + 0x^6 + 4x^6 + 12x^7 + 17x^19 + 7x^8 + 4x^14 + 6x^16 + 13x^6
+done
+2x^7 + 11x^9 + 19x^8 + 3x^9 + 2x^11 + 17x^14 + 7x^5 + 2x^11 + 18x^1 + 7x^17 + 15x^7 + 1x^1 + 2x^18 + 10x^0 + 19x^9
+4x^18 + 7x^6 + 18x^2 + 15x^2 + 12x^0 + 10x^14 + 7x^5 + 15x^13 + 7x^3 + 9x^11 + 14x^5 + 11x^15 + 2x^3 + 12x^5 + 11x^14 + 15x^11 + 18x^15 + 0x^9 + 1x^12 + 2x^0 + 12x^2 + 19x^1 + 7x^6 + 0x^6 + 15x^13
+done
+19x^47 + 52x^57 + 11x^39 + 0x^1 + 6x^15 + 5x^18 + 31x^0 + 3x^0 + 6x^10 + 17x^14 + 17x^39 + 46x^38 + 5x^33 + 0x^6 + 48x^32 + 36x^41 + 0x^36 + 18x^40 + 18x^49 + 3x^55 + 13x^59 + 54x^50 + 58x^20 + 51x^17 + 17x^42
+56x^36 + 12x^21 + 46x^32 + 25x^46 + 30x^31 + 39x^19 + 32x^43 + 6x^24 + 27x^5 + 53x^42 + 1x^56 + 50x^58 + 12x^35 + 46x^54 + 57x^26
+done
+48x^44 + 17x^58 + 58x^58 + 57x^38 + 21x^20 + 48x^46 + 28x^43 + 6x^44 + 10x^5 + 39x^54 + 48x^20 + 44x^10 + 48x^22 + 36x^59 + 5x^1 + 40x^47 + 55x^50 + 5x^8 + 7x^30 + 19x^10 + 9x^31 + 34x^57 + 39x^3 + 53x^49 + 57x^34 + 8x^16 + 40x^21 + 29x^15 + 33x^36 + 29x^39 + 51x^28 + 32x^22 + 19x^5 + 8x^23 + 37x^13 + 25x^51 + 51x^14 + 9x^23 + 13x^2 + 38x^12 + 37x^40 + 20x^12 + 55x^54 + 49x^34 + 4x^30 + 39x^57 + 9x^5 + 11x^39 + 30x^33 + 33x^8
+5x^32 + 49x^41 + 21x^46 + 39x^4 + 55x^1 + 35x^38 + 20x^52 + 17x^24 + 18x^0 + 59x^32 + 26x^55 + 49x^17 + 38x^46 + 59x^0 + 21x^42 + 12x^2 + 45x^7 + 22x^6 + 6x^26 + 8x^30 + 49x^51 + 11x^46 + 58x^55 + 53x^46 + 23x^26 + 3x^28 + 28x^3 + 57x^43 + 50x^20 + 4x^11
+done
+a
+done
+vtxlqcfmdckgzeuezmgzilrstbhswedvaqajjaqqmhledziacucvtyqbznqjerpkirhwvslgttjoohjtldbesgczazfwltvlbcaayawxzofnakehdwraltaiiltboohjdjhiwmlqpgunvqxdnizqfsmpptpxszdvbhkjzmqnymzepyrehbtjvxyktyqrstkdcdylaxayuumcsumtkhezdragqnlavrehgcpzoxluuqpogjefpvvpwfqzsmaqzmzzbxydttzugafzqxxphipcwwdlkbweddxjgavotnudkbemtsmpkcmqpmemcdcnadaryeglkuwnsuniixuldizjhufvzlyrdvufvszakbomyqkfnisavfvqunnogukhexmqmumpwrosinesdtumwiaclpetatayaywsggkbchiqqvirqmtikloafuigrcdszfvrvftkocfkazlresxhjnlmynpfjecyygmakxeppdldkmjyjfwqxqtamthmwcyuhzzvxzqdvplczqvczvyewbkqvwrnlsjdkzrrzhuuopasbqdzryfhxqavteuvlnjlhqvbzenwuzjebrrcxfhkazwbwlpiutahfcguvmfzvlbsukgrfkzonpavozcnmwsvgdavgotftelnllqriuvckevmkhpkzfoznceeosxmedjiwvofoxejvkdymtawuyllhvkkklqirfavrdqlzzukckphvpwqfchpgcwepehxviufezxopzysalvmxzvjqgmktpaevtektigznswrzhdzouhkvaogdkgdwwyowgftaoccohwvfypjourmsyetzgzrzqwattkfxckfgzcqnyqoqjdyjrtdvvefrmueqrpxoaokcqkvkyvluisducpchnjehaecdxwdhkrgvvvczmamcnikczrongcheenptxhgttjvdcgnrteoyvvswrgnulhfhcymschxekdabgmmwygylolxafggqwdyxuhshrstsxqn
+done
+aykskksya
+done
+done
+audgaadaghdfqtyfweqeogfgadfaydgadjsadafcdar
+done
+zpvliacczysvvprgdzsgcbhsbgcksqetcxjvgqucpitudrsxlxmcayluvztjvkpelobwuvjyijjdvtwxvtutondyabvwsepolfywlsadtmnxxlijlrfqysxjpiwwxalcpjxtuembkixdzaynpwtqlnlyujflmqybbrrrbbaucxjsjakrwwbwrtdxbrwcoxvjcrfofvdj
+done
+osdfdzrkxhwfwgaiamhnperomfvkthftfwonjrkiitolkjcjrqtpmtqquesgfyzoowvfmzuviabvsoprllcsehzhhygniwgktdnzxshxugyovnthpwfmysvoxfegfourvxixkgxaibhambojxerzrykxzczxontwkyscsonbtatfzlokoxsaupvdcxotgkzfqnwemkyf
+done
+mdcugytupxdgxgdmtdqkyfdqxljgvavpphmgqplqiuzyvmzenuborzhdnmgbgwzpxqesnqbgepskeicedduqqfuahegjzbuhfbel
+done
+fjghnuodaavzluynqrwvtoxnqqopohepkyqwpvycigreocavdrighcdtdfakfidkeqbtzmeabfttxceaepzdpaxefxwagvsgadusnmwqpjeygdlhiovdkfvzqnbbqclbfhshdmuhgxjljtcrvbgqvpvwqsaatheabuhbldxpiujscivwrzxsvhmqqjsnrsowgfeoqbqbsjgwvjhpuxwatvlcawngyqzykosfoszdgblgrcsrbnlvxwakrgtoxvgdpofsvswwhwrlaqtkmrnvmdqpdrnieyvusexhukwbwkuzmnqrbhswsgrdsgwwdolubpmggqebumyubwkexamwjaujqsorbgaftnwfwsyexnafhrvlerhoseotxcdmdueawortzrkuivemzntmkwkeexdlepdcjohwfmqbjnqzlmevyyzqdyhxoaefmgtdrjhbqllilqqnooaihvxriwyfhawhhdbphrxzqipjjxospyrodjlgryyl
+done
+ajdgrtrmnrapqalpvojwlarxsyqjbjqzdfimaacqplabsvkgschofnkerjkcdjkhoktasndnxnyihtawdijjjplifpnjqmfykbubjrdgcvrexgcpmynnmgfdrooogptmmlcqbhyclhdatvratdgxnwdxhoyfzdkgknlpdasosjcnavqzwmzlrfdptklaxxhpjcbumezhuakixdduczbskcbhtzimgchivtabdgkyjyalddlqzdajiwssrnxeyyzgsvoftfkstefxetppiebziwarzcvwhokyxzrnwchmzovd
+done
+a
+done
+vtxlqcfmdckgzeuezmgzilrstbhswedvaqajjaqqmhledziacucvtyqbznqjerpkirhwvslgttjoohjtldbesgczazfwltvlbcaayawxzofnakehdwraltaiiltboohjdjhiwmlqpgunvqxdnizqfsmpptpxszdvbhkjzmqnymzepyrehbtjvxyktyqrstkdcdylaxayuumcsumtkhezdragqnlavrehgcpzoxluuqpogjefpvvpwfqzsmaqzmzzbxydttzugafzqxxphipcwwdlkbweddxjgavotnudkbemtsmpkcmqpmemcdcnadaryeglkuwnsuniixuldizjhufvzlyrdvufvszakbomyqkfnisavfvqunnogukhexmqmumpwrosinesdtumwiaclpetatayaywsggkbchiqqvirqmtikloafuigrcdszfvrvftkocfkazlresxhjnlmynpfjecyygmakxeppdldkmjyjfwqxqtamthmwcyuhzzvxzqdvplczqvczvyewbkqvwrnlsjdkzrrzhuuopasbqdzryfhxqavteuvlnjlhqvbzenwuzjebrrcxfhkazwbwlpiutahfcguvmfzvlbsukgrfkzonpavozcnmwsvgdavgotftelnllqriuvckevmkhpkzfoznceeosxmedjiwvofoxejvkdymtawuyllhvkkklqirfavrdqlzzukckphvpwqfchpgcwepehxviufezxopzysalvmxzvjqgmktpaevtektigznswrzhdzouhkvaogdkgdwwyowgftaoccohwvfypjourmsyetzgzrzqwattkfxckfgzcqnyqoqjdyjrtdvvefrmueqrpxoaokcqkvkyvluisducpchnjehaecdxwdhkrgvvvczmamcnikczrongcheenptxhgttjvdcgnrteoyvvswrgnulhfhcymschxekdabgmmwygylolxafggqwdyxuhshrstsxqn
+done
+aykskksya
+done
+done
+audgaadaghdfqtyfweqeogfgadfaydgadjsadafcdar
+done
+zpvliacczysvvprgdzsgcbhsbgcksqetcxjvgqucpitudrsxlxmcayluvztjvkpelobwuvjyijjdvtwxvtutondyabvwsepolfywlsadtmnxxlijlrfqysxjpiwwxalcpjxtuembkixdzaynpwtqlnlyujflmqybbrrrbbaucxjsjakrwwbwrtdxbrwcoxvjcrfofvdj
+done
+osdfdzrkxhwfwgaiamhnperomfvkthftfwonjrkiitolkjcjrqtpmtqquesgfyzoowvfmzuviabvsoprllcsehzhhygniwgktdnzxshxugyovnthpwfmysvoxfegfourvxixkgxaibhambojxerzrykxzczxontwkyscsonbtatfzlokoxsaupvdcxotgkzfqnwemkyf
+done
+mdcugytupxdgxgdmtdqkyfdqxljgvavpphmgqplqiuzyvmzenuborzhdnmgbgwzpxqesnqbgepskeicedduqqfuahegjzbuhfbel
+done
+fjghnuodaavzluynqrwvtoxnqqopohepkyqwpvycigreocavdrighcdtdfakfidkeqbtzmeabfttxceaepzdpaxefxwagvsgadusnmwqpjeygdlhiovdkfvzqnbbqclbfhshdmuhgxjljtcrvbgqvpvwqsaatheabuhbldxpiujscivwrzxsvhmqqjsnrsowgfeoqbqbsjgwvjhpuxwatvlcawngyqzykosfoszdgblgrcsrbnlvxwakrgtoxvgdpofsvswwhwrlaqtkmrnvmdqpdrnieyvusexhukwbwkuzmnqrbhswsgrdsgwwdolubpmggqebumyubwkexamwjaujqsorbgaftnwfwsyexnafhrvlerhoseotxcdmdueawortzrkuivemzntmkwkeexdlepdcjohwfmqbjnqzlmevyyzqdyhxoaefmgtdrjhbqllilqqnooaihvxriwyfhawhhdbphrxzqipjjxospyrodjlgryyl
+done
+ajdgrtrmnrapqalpvojwlarxsyqjbjqzdfimaacqplabsvkgschofnkerjkcdjkhoktasndnxnyihtawdijjjplifpnjqmfykbubjrdgcvrexgcpmynnmgfdrooogptmmlcqbhyclhdatvratdgxnwdxhoyfzdkgknlpdasosjcnavqzwmzlrfdptklaxxhpjcbumezhuakixdduczbskcbhtzimgchivtabdgkyjyalddlqzdajiwssrnxeyyzgsvoftfkstefxetppiebziwarzcvwhokyxzrnwchmzovd
+done
+a
+done
+vtxlqcfmdckgzeuezmgzilrstbhswedvaqajjaqqmhledziacucvtyqbznqjerpkirhwvslgttjoohjtldbesgczazfwltvlbcaayawxzofnakehdwraltaiiltboohjdjhiwmlqpgunvqxdnizqfsmpptpxszdvbhkjzmqnymzepyrehbtjvxyktyqrstkdcdylaxayuumcsumtkhezdragqnlavrehgcpzoxluuqpogjefpvvpwfqzsmaqzmzzbxydttzugafzqxxphipcwwdlkbweddxjgavotnudkbemtsmpkcmqpmemcdcnadaryeglkuwnsuniixuldizjhufvzlyrdvufvszakbomyqkfnisavfvqunnogukhexmqmumpwrosinesdtumwiaclpetatayaywsggkbchiqqvirqmtikloafuigrcdszfvrvftkocfkazlresxhjnlmynpfjecyygmakxeppdldkmjyjfwqxqtamthmwcyuhzzvxzqdvplczqvczvyewbkqvwrnlsjdkzrrzhuuopasbqdzryfhxqavteuvlnjlhqvbzenwuzjebrrcxfhkazwbwlpiutahfcguvmfzvlbsukgrfkzonpavozcnmwsvgdavgotftelnllqriuvckevmkhpkzfoznceeosxmedjiwvofoxejvkdymtawuyllhvkkklqirfavrdqlzzukckphvpwqfchpgcwepehxviufezxopzysalvmxzvjqgmktpaevtektigznswrzhdzouhkvaogdkgdwwyowgftaoccohwvfypjourmsyetzgzrzqwattkfxckfgzcqnyqoqjdyjrtdvvefrmueqrpxoaokcqkvkyvluisducpchnjehaecdxwdhkrgvvvczmamcnikczrongcheenptxhgttjvdcgnrteoyvvswrgnulhfhcymschxekdabgmmwygylolxafggqwdyxuhshrstsxqn
+done
+aykskksya
+done
+done
+audgaadaghdfqtyfweqeogfgadfaydgadjsadafcdar
+done
+zpvliacczysvvprgdzsgcbhsbgcksqetcxjvgqucpitudrsxlxmcayluvztjvkpelobwuvjyijjdvtwxvtutondyabvwsepolfywlsadtmnxxlijlrfqysxjpiwwxalcpjxtuembkixdzaynpwtqlnlyujflmqybbrrrbbaucxjsjakrwwbwrtdxbrwcoxvjcrfofvdj
+done
+osdfdzrkxhwfwgaiamhnperomfvkthftfwonjrkiitolkjcjrqtpmtqquesgfyzoowvfmzuviabvsoprllcsehzhhygniwgktdnzxshxugyovnthpwfmysvoxfegfourvxixkgxaibhambojxerzrykxzczxontwkyscsonbtatfzlokoxsaupvdcxotgkzfqnwemkyf
+done
+mdcugytupxdgxgdmtdqkyfdqxljgvavpphmgqplqiuzyvmzenuborzhdnmgbgwzpxqesnqbgepskeicedduqqfuahegjzbuhfbel
+done
+fjghnuodaavzluynqrwvtoxnqqopohepkyqwpvycigreocavdrighcdtdfakfidkeqbtzmeabfttxceaepzdpaxefxwagvsgadusnmwqpjeygdlhiovdkfvzqnbbqclbfhshdmuhgxjljtcrvbgqvpvwqsaatheabuhbldxpiujscivwrzxsvhmqqjsnrsowgfeoqbqbsjgwvjhpuxwatvlcawngyqzykosfoszdgblgrcsrbnlvxwakrgtoxvgdpofsvswwhwrlaqtkmrnvmdqpdrnieyvusexhukwbwkuzmnqrbhswsgrdsgwwdolubpmggqebumyubwkexamwjaujqsorbgaftnwfwsyexnafhrvlerhoseotxcdmdueawortzrkuivemzntmkwkeexdlepdcjohwfmqbjnqzlmevyyzqdyhxoaefmgtdrjhbqllilqqnooaihvxriwyfhawhhdbphrxzqipjjxospyrodjlgryyl
+done
+ajdgrtrmnrapqalpvojwlarxsyqjbjqzdfimaacqplabsvkgschofnkerjkcdjkhoktasndnxnyihtawdijjjplifpnjqmfykbubjrdgcvrexgcpmynnmgfdrooogptmmlcqbhyclhdatvratdgxnwdxhoyfzdkgknlpdasosjcnavqzwmzlrfdptklaxxhpjcbumezhuakixdduczbskcbhtzimgchivtabdgkyjyalddlqzdajiwssrnxeyyzgsvoftfkstefxetppiebziwarzcvwhokyxzrnwchmzovd
+done
+0000
+done
+010010
+done
+255255255255
+done
+25525511135
+done
+106820214
+done
+161236192127
+done
+1711318253
+done
+1217767196
+done
+101010100
+done
+99999
+done
