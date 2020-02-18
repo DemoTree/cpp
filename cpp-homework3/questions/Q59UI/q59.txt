@@ -1,0 +1,241 @@
+1
+Add normal P28
+Normal
+done
+40
+Add single P1982
+Add single P129
+Add single P1694
+Add normal P169
+Group 1 P169 G1225
+Set P1694 238 40 136
+Set P129 228 185 184
+Group 1 P1694 G1325
+Set G1325 67 130 24
+Set P129 157 148 79
+Add reverse P103
+Set G1225 122 2 148
+Set P103 66 138 16
+Set P1694 24 113 208
+Group 1 P1694 G1908
+Set G1225 240 28 179
+Set P129 149 208 152
+Add normal P1980
+Group 1 P129 G1921
+Add normal P65
+Set P129 134 1 86
+Set P65 143 228 226
+Set G1908 136 191 57
+Group 1 P1694 G1720
+Add single P1962
+Set G1720 93 191 239
+Set P1980 174 103 139
+Add single P1862
+Group 2 P1862 P1694 G1783
+Add reverse P644
+Add reverse P193
+Group 1 P65 G1709
+Group 2 P644 P193 G1839
+Set P103 65 182 38
+Set G1908 89 250 132
+Add single P300
+Set G1839 75 124 138
+Add reverse P478
+Set P129 15 104 182
+Set P193 123 236 135
+Gray
+done
+10
+Add normal P136
+Add normal P337
+Add normal P332
+Set P136 171 212 208
+Set P337 16 212 44
+Set P136 208 115 5
+Set P332 79 99 16
+Set P337 250 69 196
+Set P136 168 134 136
+Set P332 102 176 175
+Normal
+done
+10
+Add single P123
+Set P123 107 150 10
+Add single P64
+Add normal P1
+Add normal P286
+Add reverse P6
+Set P1 250 96 236
+Add reverse P225
+Set P1 183 191 251
+Set P1 9 156 198
+Normal
+done
+10
+Add single P115
+Set P115 0 201 250
+Add reverse P136
+Add single P283
+Add single P32
+Add normal P110
+Set P136 4 222 167
+Add normal P7
+Add reverse P126
+Add reverse P197
+Normal
+done
+40
+Add normal P1739
+Add reverse P43
+Set P43 145 169 70
+Set P43 7 72 86
+Add single P1413
+Add reverse P720
+Add single P1347
+Add single P285
+Add reverse P1240
+Add reverse P487
+Add normal P968
+Set P1739 63 47 60
+Add single P1615
+Set P1413 103 69 114
+Set P968 33 6 178
+Add single P124
+Add reverse P1032
+Add normal P151
+Set P1032 11 177 176
+Add single P948
+Add reverse P357
+Set P948 208 117 25
+Set P1413 65 68 99
+Set P43 159 222 129
+Set P1739 79 227 226
+Add reverse P1426
+Add single P78
+Add single P812
+Set P124 199 129 199
+Add reverse P191
+Set P1413 28 41 68
+Add single P147
+Set P285 64 198 134
+Set P1615 147 151 227
+Set P1739 40 3 195
+Set P968 111 249 101
+Set P151 2 22 17
+Set P124 169 74 79
+Add normal P760
+Add single P923
+Normal
+done
+10
+Add single P301
+Add reverse P101
+Set P101 113 189 105
+Add reverse P179
+Set P101 65 59 255
+Set P101 1 185 251
+Add single P149
+Set P101 65 32 254
+Add single P404
+Set P101 217 45 90
+Gray
+done
+40
+Add reverse P300
+Add normal P920
+Set P300 231 254 18
+Set P300 51 168 97
+Set P300 150 39 184
+Add single P729
+Set P729 11 216 83
+Add reverse P1998
+Add normal P1575
+Add normal P378
+Set P1998 126 228 245
+Add single P448
+Add single P96
+Add single P1865
+Set P300 235 119 219
+Add normal P280
+Set P1575 120 112 151
+Add single P245
+Add normal P330
+Set P1575 118 9 170
+Set P300 152 140 189
+Add normal P1296
+Add reverse P1481
+Add normal P200
+Add reverse P514
+Add single P657
+Set P729 207 56 188
+Add reverse P137
+Add single P808
+Set P330 172 130 162
+Set P1998 60 100 1
+Add normal P1753
+Add normal P1403
+Set P808 136 148 186
+Add reverse P1297
+Set P1481 57 157 183
+Add reverse P1728
+Set P137 226 242 28
+Add reverse P606
+Set P200 103 73 83
+Gray
+done
+10
+Add normal P176
+Group 1 P176 G1
+Set G1 45 19 164
+Group 1 P176 G49
+Set G1 125 27 112
+Set G49 148 188 85
+Add reverse P442
+Add single P124
+Add single P101
+Set P442 91 0 125
+Gray
+done
+40
+Add normal P107
+Set P107 89 227 66
+Set P107 109 227 151
+Set P107 174 9 150
+Set P107 153 68 53
+Add single P32
+Add normal P249
+Set P249 148 201 236
+Set P32 228 242 204
+Set P32 222 95 15
+Set P249 133 162 23
+Group 1 P32 G409
+Set P32 111 25 57
+Group 1 P249 G1168
+Set P32 57 221 152
+Set G1168 37 15 22
+Add normal P883
+Add normal P526
+Set G409 114 154 214
+Group 1 P883 G146
+Set P107 228 45 114
+Set P249 118 45 68
+Add reverse P1303
+Add single P1061
+Set P883 19 233 196
+Set P32 114 38 39
+Set P32 2 117 167
+Group 1 P107 G150
+Add reverse P1951
+Set P1061 192 8 250
+Add single P179
+Set G146 178 189 207
+Group 1 P1061 G1981
+Set P526 240 210 157
+Group 2 P1061 P883 G1613
+Add reverse P219
+Group 2 P1951 P526 G1936
+Add single P1307
+Group 2 P249 P32 G700
+Set G150 180 202 9
+Gray
+done
